@@ -5,3 +5,7 @@
 	path = public
 	url = https://github.com/yuyinzhou/yuyinzhou.github.io.git
 	branch = master
+[submodule "content/authors/admin/public"]
+	path = content/authors/admin/public
+	url = https://github.com/yuyinzhou/yuyinzhou.github.io.git
+	branch = master
